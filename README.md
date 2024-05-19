@@ -1,8 +1,8 @@
-PORTOFOLIO NADIA LUTFIYANI
+# PORTOFOLIO NADIA LUTFIYANI
 
 This is my personal website which contains about my profile, photos, links,social media..
 
-Features
+# Features
 -About Me: This page should give a brief bio and share our personal story.
 
 -Portfolio: Use this page to showcase the work we've done. Each project should include a description, what we have learned or achieved from it, and any relevant visuals.
@@ -13,7 +13,7 @@ Features
 
 -login : Login to enter the website
 
-Links
+# Links
 -Figma: https://www.figma.com/design/esAHeYOXW2qqSTxJNiL6iW/Untitled?node-id=0%3A1&t=fiVwmhI9LerBrb4H-1
 
 -Website: https://nadialutfiyani.my.id/
