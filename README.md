@@ -18,7 +18,7 @@ Links
 
 -Website: https://nadialutfiyani.my.id/
 
--Github : https://github.com/deaamanda88/Amanda.my.id.git
+-Github : https://github.com/nadialutfiyani/nadialutfiyani.my.id
 
 -Domain : https://nadialutfiyani.my.id/
 
